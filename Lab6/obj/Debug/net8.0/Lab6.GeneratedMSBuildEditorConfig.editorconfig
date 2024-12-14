@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab6
-build_property.ProjectDir = /Users/semenosipov/Documents/vscode/Lab6/
+build_property.ProjectDir = /Users/semenosipov/Documents/vscode/KFUCK_HW7/Lab6/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

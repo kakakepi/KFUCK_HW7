@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Lab6/Lab6.csproj",
-      "projectName": "Lab6",
-      "projectPath": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Lab6/Lab6.csproj",
+      "projectUniqueName": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Tumakovd_Z_/Tumakovd_Z_.csproj",
+      "projectName": "Tumakovd_Z_",
+      "projectPath": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Tumakovd_Z_/Tumakovd_Z_.csproj",
       "packagesPath": "/Users/semenosipov/.nuget/packages/",
-      "outputPath": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Lab6/obj/",
+      "outputPath": "/Users/semenosipov/Documents/vscode/KFUCK_HW7/Tumakovd_Z_/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/semenosipov/.nuget/NuGet/NuGet.Config"
